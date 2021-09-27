@@ -14,6 +14,7 @@ After clone process done, you can run:
 ### `npm `
 
 npm install
+
 npm start
 
 Runs the app in the development mode.\
