@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Clone this project with:
 
-git clone https://github.com/szucsrobertz/neusoft.git
+`git clone https://github.com/szucsrobertz/neusoft.git`
 
 After clone process done, you can run:
 
