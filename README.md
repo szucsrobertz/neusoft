@@ -68,3 +68,6 @@ src
 ├──README.md!
 
 ```
+
+### React-Redux Architecture
+![react-redux](https://user-images.githubusercontent.com/56365068/134887637-c4dbd7b6-6f06-4af4-9b32-6d6191860035.png)
