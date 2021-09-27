@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Clone this project with:
+git clone https://github.com/szucsrobertz/neusoft.git
 
 ### `npm start`
 
