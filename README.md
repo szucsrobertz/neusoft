@@ -13,7 +13,7 @@ After clone process done, you can run:
 
 ### `npm `
 
-###npm install
+###`npm install
 
 npm start`
 
