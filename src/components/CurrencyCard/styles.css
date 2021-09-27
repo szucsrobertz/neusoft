@@ -1,0 +1,27 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 20rem;
+  height: 10rem;
+  border: 0.1rem solid black;
+  margin: 2.5rem 2rem;
+}
+
+.close-button {
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 1rem;
+  color: red;
+}
+
+.card-information {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.card-clicked {
+  background-color: red;
+}

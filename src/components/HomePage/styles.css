@@ -1,0 +1,26 @@
+.container-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem auto;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 10rem;
+  height: 3rem;
+  background-color: #4caf50;
+}
+
+.container-button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container-title {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
